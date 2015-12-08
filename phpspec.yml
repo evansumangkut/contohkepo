@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: webprog
+        psr4_prefix: webprog
+        src_path: app
